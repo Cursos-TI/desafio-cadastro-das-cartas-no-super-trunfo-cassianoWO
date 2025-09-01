@@ -7,13 +7,8 @@ int main(){
     float area1, area2;
     float pib1, pib2;
     int ponto_turistico1, ponto_turistico2;
-    double densidade1, densidade2;
-    double percapita1, percapita2;
-
-    densidade1 = (pop1 / area1);
-    densidade2 = (pop2 / area2);
-    percapita1 = (pib1 / pop1);
-    percapita2 = (pib2 / pop2);
+    float densidade1, densidade2;
+    float percapita1, percapita2;
 
         printf("#######################################\n");
         printf("--------------SUPER TRUNFO-------------\n");
